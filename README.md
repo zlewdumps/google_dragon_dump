@@ -1,0 +1,14 @@
+# ryu-user 7.1.2 N2G47D 3760269 release-keys
+- manufacturer: google
+- platform: tegra210-dragon
+- codename: dragon
+- flavor: ryu-user
+- release: 7.1.2
+- id: N2G47D
+- incremental: 3760269
+- tags: release-keys
+- fingerprint: google/ryu/dragon:7.1.2/N2G47D/3760269:user/release-keys
+- is_ab: false
+- brand: google
+- branch: ryu-user-7.1.2-N2G47D-3760269-release-keys
+- repo: google_dragon_dump
